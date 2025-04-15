@@ -1,0 +1,10 @@
+Outline Level,ID,Name,Start,Finish,Duration,% Complete,Predecessors,Resource Names,Color,Notes
+1,1,FMO Dealership System Migration,2025-04-15,2025-10-25,194 day,0,,,,<p><br></p>
+2,2,Project Planning & Kickoff,2025-04-15,2025-04-28,14 day,0,,Project Manager,121,<p><br></p>
+2,3,Requirements & Design,2025-04-30,2025-05-27,28 day,0,1FS,Business Analyst,211,<p><br></p>
+2,4,Development Phase I,2025-05-28,2025-07-08,42 day,0,2FS,Dev Team,301,<p><br></p>
+2,5,Development Phase II,2025-07-10,2025-08-20,42 day,0,3FS,Dev Team,301,<p><br></p>
+2,6,QA & UAT Testing,2025-08-22,2025-09-11,21 day,0,4FS,QA Team,211,<p><br></p>
+2,7,Training & Documentation,2025-09-13,2025-09-26,14 day,0,5FS,Training Lead,121,<p><br></p>
+2,8,Deployment & Cutover,2025-09-28,2025-10-04,7 day,0,6FS,DevOps,211,<p><br></p>
+2,9,Hypercare & Final Review,2025-10-05,2025-10-25,21 day,0,7FS,Support Team,301,<p><br></p>
